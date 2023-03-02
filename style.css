@@ -1,0 +1,24 @@
+.item-1 {
+background-color: blue;
+}
+.item-2 {
+    background-color:cornflowerblue
+}
+.item-3 {
+    background-color: cadetblue;
+}
+.item-4{
+    background-color: firebrick;
+}
+.item-5{
+    background-color:red
+}
+.item-6{
+    background-color: deeppink;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 80px 80px;
+}
